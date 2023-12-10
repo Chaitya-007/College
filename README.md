@@ -1,4 +1,4 @@
-# College
+# College Repository
 This repository contains documents regarding College Purpose.
 
 # Course 
